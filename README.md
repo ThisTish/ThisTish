@@ -1,9 +1,6 @@
 
-<header style="width: 100%">
+![](../assets/TishSirfaceBanner.gif)
 
-![](/assets/TishSirfaceBanner.gif)
-
-</header>
 
 <a href="https://github.com/ThisTish" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -14,12 +11,11 @@
 <a href="https://instagram.com/_thistish" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
 
 <br/>  
 
 
-<table style="border: none;"><tr><td valign="center" width="50%">
+<table width=100%><tr><td valign="center" width="50%">
 
 - 👀 Paruse my [Portfolio](https://tish-sirface-portfolio.netlify.app/)!  
   
@@ -36,7 +32,7 @@
 - 👻 Currently looking for work  
 
 
-</td><td valign="center" width="50%">
+</td><td valign="end" width="50%">
 
 ![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=dramamean&cover_image=true&theme=default&show_offline=false&background_color=632431&interchange=true&bar_color_cover=false&bar_color=b46320)  
 
@@ -48,7 +44,7 @@
 
 
 
-<table style="border: none;"><tr><td valign="top" width="50%">
+<table style="border: none;"><tr><td valign="top" style="text-align: center; width: 50%;">
 
 ### 🫀 I love coding with... 
 
@@ -79,7 +75,7 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top"  style="text-align: center; width: 50%;">
 
 
 
@@ -115,14 +111,12 @@
 
  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisTish&show_icons=true&count_private=true&hide_border=true" style="width: 25%;" />
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisTish&show_icons=true&count_private=true&hide_border=true" style="width: 30%" />
 
-  <div style="width: 50%; text-align: center;">
-    <img src="https://streak-stats.demolab.com?user=ThisTish&theme=sunset-gradient&hide_border=true&background=45%2C392E34%2C6C2A32&ring=C0721F&fire=A65224&currStreakNum=AD5C22&sideNums=756749&dates=F3F2F3&currStreakLabel=D58D16&sideLabels=EB5454" style="width: 100%;" />
-  </div>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=ThisTish&theme=sunset-gradient&hide_border=true&background=45%2C392E34%2C6C2A32&ring=C0721F&fire=A65224&currStreakNum=AD5C22&sideNums=756749&dates=F3F2F3&currStreakLabel=D58D16&sideLabels=EB5454)](https://git.io/streak-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisTish&hide_border=true&layout=compact" style="width: 25%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisTish&hide_border=true&layout=compact" style="width: 30%;" />
 </div>
 
 
