@@ -1,8 +1,9 @@
 
+<header style="width: 100%">
 
-### Hero  
-<img src="./assets/GitHubBanner.mp4" align="left" style="width: 100%" />  
-  
+![](/assets/TishSirfaceBanner.gif)
+
+</header>
 
 <a href="https://github.com/ThisTish" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -18,8 +19,7 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table style="border: none;"><tr><td valign="center" width="50%">
 
 - 👀 Paruse my [Portfolio](https://tish-sirface-portfolio.netlify.app/)!  
   
@@ -36,7 +36,9 @@
 - 👻 Currently looking for work  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
+
+![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=dramamean&cover_image=true&theme=default&show_offline=false&background_color=632431&interchange=true&bar_color_cover=false&bar_color=b46320)  
 
 
 
@@ -45,10 +47,12 @@
 <br/>  
 
 
-## Languages and Tools  
-<table><tr><td valign="top" width="50%">
 
-<div align="center">  
+<table style="border: none;"><tr><td valign="top" width="50%">
+
+### 🫀 I love coding with... 
+
+<div valign="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -80,7 +84,7 @@
 
 
 ### 🦉 I'm ready to learn...  
-<div align="center">  
+<div valign="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
@@ -109,21 +113,23 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ThisTish&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+ 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThisTish&theme=sunset-gradient&hide_border=true&background=45%2C392E34%2C6C2A32&ring=C0721F&fire=A65224&currStreakNum=AD5C22&sideNums=756749&dates=F3F2F3&currStreakLabel=D58D16&sideLabels=EB5454)](https://git.io/streak-stats)  
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisTish&show_icons=true&count_private=true&hide_border=true" style="width: 25%;" />
+
+  <div style="width: 50%; text-align: center;">
+    <img src="https://streak-stats.demolab.com?user=ThisTish&theme=sunset-gradient&hide_border=true&background=45%2C392E34%2C6C2A32&ring=C0721F&fire=A65224&currStreakNum=AD5C22&sideNums=756749&dates=F3F2F3&currStreakLabel=D58D16&sideLabels=EB5454" style="width: 100%;" />
+  </div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisTish&hide_border=true&layout=compact" style="width: 25%;" />
+</div>
+
+
   
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisTish&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
 <br/>  
 
-  
-
-<br/>  
-
-![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=dramamean&cover_image=true&theme=default&show_offline=false&background_color=632431&interchange=true&bar_color_cover=false&bar_color=b46320)  
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->  
