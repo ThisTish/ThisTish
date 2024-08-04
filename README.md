@@ -1,5 +1,5 @@
 
-![](../assets/TishSirfaceBanner.gif)
+![](./assets/TishSirfaceBanner.gif)
 
 
 <a href="https://github.com/ThisTish" target="_blank">
@@ -17,7 +17,7 @@
 
 <table width=100%><tr><td valign="center" width="50%">
 
-- 👀 Paruse my [Portfolio](https://tish-sirface-portfolio.netlify.app/)!  
+- 👀 Peruse my [Portfolio](https://tish-sirface-portfolio.netlify.app/)!  
   
 
 - 🔦 Wanna see my [Resume](https://docs.google.com/document/d/1KrrpczQYqv2uE75S6RF2lGD52rciyn8z5NmygMMA-zk/edit?usp=sharing)?  
@@ -26,7 +26,7 @@
 - 👾 Currently collaborating on [Game Galaxy](https://github.com/TheKyleKirby/GAME-GALAXXY)  
   
 
-- 🥏Disc is life  
+- 🥏Disc golf & sunshine for fun
   
 
 - 👻 Currently looking for work  
@@ -112,11 +112,11 @@
  
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisTish&show_icons=true&count_private=true&hide_border=true" style="width: 30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisTish&show_icons=true&count_private=true&hide_border=true" style="width: 50%" />
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=ThisTish&theme=sunset-gradient&hide_border=true&background=45%2C392E34%2C6C2A32&ring=C0721F&fire=A65224&currStreakNum=AD5C22&sideNums=756749&dates=F3F2F3&currStreakLabel=D58D16&sideLabels=EB5454)](https://git.io/streak-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisTish&hide_border=true&layout=compact" style="width: 30%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisTish&hide_border=true&layout=compact" style="width: 50%;" />
 </div>
 
 
