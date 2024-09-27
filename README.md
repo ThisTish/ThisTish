@@ -25,6 +25,7 @@
 
 - 👾 Currently collaborating on [Game Galaxy](https://github.com/TheKyleKirby/GAME-GALAXXY)  
 
+
 - 📒 Learning **TypeScript** and **Next.js** right now
   
 
