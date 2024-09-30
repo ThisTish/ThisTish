@@ -1,5 +1,5 @@
 
-![](./assets/TishSirfaceBanner.gif)
+![Tish Sirface, Developer, Creator, Designer, Disc Golfer, Welcome to my Github](./assets/TishSirfaceBanner.gif)
 
 
 <a href="https://github.com/ThisTish" target="_blank">
@@ -17,23 +17,25 @@
 
 <table width=100%><tr><td valign="center" width="50%">
 
-- 👀 Peruse my [Portfolio](https://tish-sirface-portfolio.netlify.app/)!  
+- <img src="image-5.png" alt="Emoji holding laptop excitedly" width="25" height="25"/> Peruse my [Portfolio](https://tish-sirface-portfolio.netlify.app/)!  
   
 
-- 🔦 Wanna see my [Resume](https://docs.google.com/document/d/1KrrpczQYqv2uE75S6RF2lGD52rciyn8z5NmygMMA-zk/edit?usp=sharing)?  
+- <img src="image-4.png" alt="Eye peeking thru clouds" width="25" height="25"/>  Wanna see my [Resume](https://docs.google.com/document/d/1KrrpczQYqv2uE75S6RF2lGD52rciyn8z5NmygMMA-zk/edit?usp=sharing)?  
   
 
-- 👾 Currently collaborating on [Game Galaxy](https://github.com/TheKyleKirby/GAME-GALAXXY)  
+- <img src="image-3.png" alt="Shopping cart with time going in" width="25" height="25"/>  Currently developing [TimeCatcher](https://github.com/ThisTish/Time_Catcher)  
 
 
-- 📒 Learning **TypeScript** and **Next.js** right now
+- <img src="image-6.png" alt="Pumpkin using a laptop" width="25" height="25"/>  Learning **TypeScript** and **Next.js** right now
   
 
-- 🥏 Disc golf & sunshine for fun
+- <img src="image-7.png" alt="Sun emoji with a silly face" width="25" height="25"/> Disc golf & sunshine for fun
   
 
-- 👻 Currently looking for work  
-
+- <img src="image.png" alt="Furry Husky Emoji!" width="25" height="25"/> 
+  <img src="image-1.png" alt="Puppy with flowers emoji" width="25" height="25"/> 
+  <img src="image-2.png" alt="Dark kitty cat emoji" width="25" height="25"/>
+  Fur Family
 
 </td><td valign="end" width="50%">
 
