@@ -17,24 +17,24 @@
 
 <table width=100%><tr><td valign="center" width="50%">
 
-- <img src="image-5.png" alt="Emoji holding laptop excitedly" width="25" height="25"/> Peruse my [Portfolio](https://tish-sirface-portfolio.netlify.app/)!  
+<img src="image-5.png" alt="Emoji holding laptop excitedly" width="40" height="40"/> Peruse my [Portfolio](https://tish-sirface-portfolio.netlify.app/)!  
   
 
-- <img src="image-4.png" alt="Eye peeking thru clouds" width="25" height="25"/>  Wanna see my [Resume](https://docs.google.com/document/d/1KrrpczQYqv2uE75S6RF2lGD52rciyn8z5NmygMMA-zk/edit?usp=sharing)?  
+<img src="image-4.png" alt="Eye peeking thru clouds" width="40" height="40"/>  Wanna see my [Resume](https://docs.google.com/document/d/1KrrpczQYqv2uE75S6RF2lGD52rciyn8z5NmygMMA-zk/edit?usp=sharing)?  
   
 
-- <img src="image-3.png" alt="Shopping cart with time going in" width="25" height="25"/>  Currently developing [TimeCatcher](https://github.com/ThisTish/Time_Catcher)  
+<img src="image-3.png" alt="Shopping cart with time going in" width="40" height="40"/>  Currently developing [TimeCatcher](https://github.com/ThisTish/Time_Catcher)  
 
 
-- <img src="image-6.png" alt="Pumpkin using a laptop" width="25" height="25"/>  Learning **TypeScript** and **Next.js** right now
+<img src="image-6.png" alt="Pumpkin using a laptop" width="40" height="40"/>  Learning **TypeScript** and **Next.js** right now
   
 
-- <img src="image-7.png" alt="Sun emoji with a silly face" width="25" height="25"/> Disc golf & sunshine for fun
+<img src="image-7.png" alt="Sun emoji with a silly face" width="40" height="40"/> Disc golf & sunshine for fun
   
 
-- <img src="image.png" alt="Furry Husky Emoji!" width="25" height="25"/> 
-  <img src="image-1.png" alt="Puppy with flowers emoji" width="25" height="25"/> 
-  <img src="image-2.png" alt="Dark kitty cat emoji" width="25" height="25"/>
+<img src="image.png" alt="Furry Husky Emoji!" width="40" height="40"/> 
+  <img src="image-1.png" alt="Puppy with flowers emoji" width="40" height="40"/> 
+  <img src="image-2.png" alt="Dark kitty cat emoji" width="40" height="40"/>
   Fur Family
 
 </td><td valign="end" width="50%">
@@ -55,11 +55,13 @@
 
 <div valign="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -96,11 +98,9 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
+ <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 <a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="25" /></a>  
 <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" /></a>  
