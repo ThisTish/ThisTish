@@ -2,15 +2,14 @@
 ![Tish Sirface, Developer, Creator, Designer, Disc Golfer, Welcome to my Github](./assets/TishSirfaceBanner.gif)
 
 
-<a href="https://github.com/ThisTish" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/tishSirface" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/_thistish" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
+[![wakatime](https://wakatime.com/badge/user/94425b11-5b53-4e77-8f9d-2f134789a08c.svg?&style=for-the-badge)](https://wakatime.com/@94425b11-5b53-4e77-8f9d-2f134789a08c)
 
 <br/>  
 
