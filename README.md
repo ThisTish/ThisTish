@@ -127,7 +127,7 @@
 
 
 <!--START_SECTION:waka-->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thistish)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisTish)
 
 <!--END_SECTION:waka-->  
   
