@@ -112,11 +112,11 @@
  
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisTish&show_icons=true&count_private=true&hide_border=true" style="width: 50% margin-bottom: 2px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisTish&show_icons=true&count_private=true&hide_border=true&theme=maroongold" />
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=ThisTish&theme=sunset-gradient&hide_border=true&background=45%2C392E34%2C6C2A32&ring=C0721F&fire=A65224&currStreakNum=AD5C22&sideNums=756749&dates=F3F2F3&currStreakLabel=D58D16&sideLabels=EB5454)](https://git.io/streak-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisTish&hide_border=true&layout=compact" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisTish&hide_border=true&layout=compact&theme=darcula" style="height: 220px;" />
 </div>
 
 
@@ -126,7 +126,8 @@
 
 
 <!--START_SECTION:waka-->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisTish)
+<!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisTish) -->
+
 
 <!--END_SECTION:waka-->  
   
