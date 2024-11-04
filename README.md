@@ -22,7 +22,7 @@
 <img src="image-4.png" alt="Eye peeking thru clouds" width="40" height="40"/>  Wanna see my [Resume](https://docs.google.com/document/d/1KrrpczQYqv2uE75S6RF2lGD52rciyn8z5NmygMMA-zk/edit?usp=sharing)?  
   
 
-<img src="image-3.png" alt="Shopping cart with time going in" width="40" height="40"/>  Currently developing [TimeCatcher](https://github.com/ThisTish/Time_Catcher)  
+<img src="image-3.png" alt="Shopping cart with time going in" width="40" height="40"/>  Currently developing [TimeCatcher](https://github.com/ThisTish/TimeCatcher)  
 
 
 <img src="image-6.png" alt="Pumpkin using a laptop" width="40" height="40"/>  Learning **TypeScript** and **Next.js** right now
